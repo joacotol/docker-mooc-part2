@@ -1,0 +1,7 @@
+These are the commands the I used to complete the exercise.
+
+git clone git@github.com:docker-hy/material-applications.git
+
+cd material-applications/scaling-exercise
+
+docker compose up -d --scale compute=25
